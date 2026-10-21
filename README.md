@@ -1,4 +1,4 @@
-# Storage Unit Converter - Feature Version
+# Storage Unit Converter - Featured Version
 
 ## Purpose
 The Storage Unit Converter is a simple Python program that converts
